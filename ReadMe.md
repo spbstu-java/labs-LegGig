@@ -12,7 +12,7 @@
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <th>-</th>
+      <th scope="col">+</th>
     </tr>
     <tr>
       <th scope="row">2</th>
