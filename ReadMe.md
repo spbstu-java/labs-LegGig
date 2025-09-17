@@ -16,7 +16,7 @@
     </tr>
     <tr>
       <th scope="row">2</th>
-      <th>-</th>
+      <th>+</th>
     </tr>
     <tr>
       <th scope="row">3</th>
