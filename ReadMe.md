@@ -20,7 +20,7 @@
     </tr>
     <tr>
       <th scope="row">3</th>
-      <th>-</th>
+      <th>+</th>
     </tr>
     <tr>
       <th scope="row">4</th>
