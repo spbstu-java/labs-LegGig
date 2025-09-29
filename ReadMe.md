@@ -24,7 +24,7 @@
     </tr>
     <tr>
       <th scope="row">4</th>
-      <th>-</th>
+      <th>+</th>
     </tr>
   </tbody>
 </table>
